@@ -1,63 +1,21 @@
+# Hi 👋, I'm Nikhil shinde 
 
-# Nikhil Shinde - Portfolio React Component
+### A budding Html developer
 
-A modern, responsive portfolio React component built with Tailwind CSS. This single-file component showcases a professional portfolio with animations, skills section, and project cards.
+- 🌱 I'm currently learning **Javascript **
 
-## 🚀 Live Demo
+- 👨‍💻 All of my projects are available at **[https://nikhilshindeportfolio.vercel.app/](https://nikhilshindeportfolio.vercel.app/)**
 
-**Portfolio Website:** [https://nikhilshindeportfolio.vercel.app/](https://nikhilshindeportfolio.vercel.app/)
+- 📝 I regularly write articles on **[https://nikhilshindeportfolio.vercel.app/](https://nikhilshindeportfolio.vercel.app/)**
 
-## 📋 About
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Nikhilnick5050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Nikhilnick5050" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-shinde-286937367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-shinde-286937367" height="30" width="40" /></a>
+<a href="https://twitter.com/Nikhilnick5046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nikhilnick5046" height="30" width="40" /></a>
+</p>
 
-This is a React component that implements my personal portfolio website. It features a clean, modern design with smooth animations and responsive layout using Tailwind CSS.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a></p>
 
-## 🛠️ Tech Stack
-
-- **React** - Component-based UI library
-- **Tailwind CSS** - Utility-first CSS framework
-- **HTML** - 20% (Semantic structure)
-- **CSS** - 20% (Tailwind utility classes)
-- **JavaScript** - 60% (React logic & interactivity)
-
-## 📊 Technology Distribution
-
-- **HTML**: 20% - Semantic markup and accessibility
-- **CSS**: 20% - Tailwind CSS styling and animations
-- **JavaScript**: 60% - React components and functionality
-
-## 👨‍💻 Developer
-
-**Nikhil Subhash Shinde**
-- B.Tech Computer Engineering Student at PCCoE, Pune
-- Passionate about web development and AI
-- Focused on modern technologies and user experience
-
-## 📞 Connect With Me
-
-- **🌐 Portfolio**: [nikhilshindeportfolio.vercel.app](https://nikhilshindeportfolio.vercel.app/)
-- **💼 LinkedIn**: [Nikhil Shinde](https://www.linkedin.com/in/nikhil-shinde-1b1b3b1b2/)
-- **💻 GitHub**: [nikhilshinde01](https://github.com/nikhilshinde01)
-- **🐦 Twitter**: [@nikhilshinde](https://twitter.com/nikhilshinde)
-- **📧 Email**: nikhilshinde@example.com
-
-## 🎯 Features
-
-- ✅ Fully Responsive Design
-- ✅ Modern UI with Tailwind CSS
-- ✅ Smooth Animations & Transitions
-- ✅ Skills Progress Bars
-- ✅ Project Showcase Section
-- ✅ Professional Contact Section
-- ✅ Cross-browser Compatible
-
-## 📁 Component Structure
-
-```javascript
-NikhilPortfolio/
-├── Header/Hero Section
-├── About Me + Education
-├── Skills with Progress Bars
-├── Projects Showcase
-├── Contact Section
-└── Footer
 
