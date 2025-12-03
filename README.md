@@ -81,19 +81,45 @@ I strongly believe that computer engineering is not just about coding — it’s
 
 ---
 
-### 📊 GitHub Statistics
+<p align="center">
+  <img width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
+</p>
 
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhilnick5050&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-
-<img src="https://streak-stats.demolab.com?user=Nikhilnick5050&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+### 📊 GitHub Statistics Dashboard
 
 ---
 
-### 🧩 Most Used Languages
+#### 🏆 **Profile Summary**
+**📦 7 Repositories** | **👥 2 Collaborators** | **📅 Active: November - December 2025** | **🔥 Currently Contributing**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilnick5050&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+---
+
+
+
+---
+
+#### 💻 **Top Languages & Activity**
+
+<div align="center">
+  <a href="https://github.com/Nikhilnick5050">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilnick5050&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&langs_count=8" />
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilnick5050&theme=react-dark&bg_color=091519&color=61DAFB&line=3a8296&point=61DAFB&area=true&hide_border=false&custom_title=Contribution+Graph+Nov-Dec+2025" />
+  </a>
+</div>
+
+---
+
+#### 🏅 **GitHub Achievements**
+
+<div align="center">
+  <a href="https://github.com/Nikhilnick5050">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nikhilnick5050&theme=radical&no-frame=false&row=2&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Repositories,Stars&title-color=61DAFB&bg_color=0,091519,000000&border_color=3a8296" />
+  </a>
+</div>
+
+---
+
+
 
 ---
 
