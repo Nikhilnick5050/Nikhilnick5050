@@ -92,7 +92,7 @@ I strongly believe that computer engineering is not just about coding — it’s
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+  <img src="blob:https://in.pinterest.com/b0e385c3-86e4-43bc-81e9-0bedcaac10e4" />
 </p>
 
 ---
