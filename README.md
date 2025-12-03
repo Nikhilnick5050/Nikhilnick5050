@@ -34,10 +34,9 @@ I strongly believe that computer engineering is not just about coding — it’s
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
 
-  <a href="https://nikhilshinde-portfolio.vercel.app/">
-    <img src="https://nikhilshindeportfolio.vercel.app/" />
-  </a>
-
+ <a href="https://nikhilshindeportfolio.vercel.app/">
+ <img src="https://skillicons.dev/icons?i=vercel" height="40"></a>
+ 
   <a href="https://nikhilcreation.my.canva.site/nikhil-creation-in">
     <img src="https://img.shields.io/badge/Canva-091519?style=for-the-badge&logo=canva&logoColor=61DAFB" />
   </a>
