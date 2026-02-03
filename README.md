@@ -108,13 +108,6 @@ I strongly believe that computer engineering is not just about coding — it’s
 
 ---
 
-#### 🏅 **GitHub Achievements**
-
-<div align="center">
-  <a href="https://github.com/Nikhilnick5050">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nikhilnick5050&theme=radical&no-frame=false&row=2&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Repositories,Stars&title-color=61DAFB&bg_color=0,091519,000000&border_color=3a8296" />
-  </a>
-</div>
 
 ---
 
@@ -122,9 +115,6 @@ I strongly believe that computer engineering is not just about coding — it’s
 
 ---
 
-## 🏆 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Nikhilnick5050&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 
 ---
 
