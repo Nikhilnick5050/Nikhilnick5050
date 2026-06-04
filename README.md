@@ -3,9 +3,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Founder+of+Classgrid;Full-Stack+Developer+%7C+SaaS+Builder;Computer+Engineering+@+PCCoE+Pune;Building+the+Future+of+Digital+Education" alt="Typing SVG" />
 </div>
-
 <br/>
 
+<div align="center">
+  <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /></picture>
+</div>
+
+<br/>
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td width="70%" valign="top" style="border: none; padding-right: 30px;">
