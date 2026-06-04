@@ -23,7 +23,7 @@
     <td width="30%" valign="top" align="center" style="border: none; padding-top: 50px;">
       <h2>🔗 Connect</h2>
       <a href="https://classgrid.in"><img src="https://img.shields.io/badge/Classgrid.in-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a><br/><br/>
-      <a href="https://nikhil.classgrid.in/"><img src="https://img.shields.io/badge/Portfolio-091519?style=for-the-badge&logo=react&logoColor=61DAFB" /></a><br/><br/>
+      <a href="https://nikhil.classgrid.in/"><img src="https://img.shields.io/badge/Portfolio-091519?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" /></a><br/><br/>
       <a href="https://www.linkedin.com/in/nikhil-shinde-286937367"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/><br/>
       <a href="https://x.com/Nikhilnick5046"><img src="https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white" /></a><br/><br/>
       <a href="https://www.instagram.com/nikhilnick5046?igsh=bWM2cTBnbGJzY3c0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><br/><br/>
