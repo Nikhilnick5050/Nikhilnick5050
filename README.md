@@ -10,13 +10,15 @@
   <tr style="border: none;">
     <td width="70%" valign="top" style="border: none; padding-right: 30px;">
       <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>🔭 Full-Stack Developer & Computer Engineering Student</li>
-        <li>🚀 Building <b>Classgrid</b> — an Education OS for managing institutions end-to-end</li>
-        <li>💻 Passionate about SaaS Architecture, Cloud Infrastructure & AI Integration</li>
-        <li>⚡ I write clean APIs, design premium interfaces & deploy scalable systems</li>
-        <li>🌐 Visit <a href="https://classgrid.in"><b>classgrid.in</b></a></li>
-      </ul>
+      <p>🔭 Full-Stack Developer & Computer Engineering Student passionate about building software that solves real-world problems.</p>
+      <p>🚀 Currently building <b>Classgrid</b>, an Education Operating System designed to manage institutions end-to-end.</p>
+      <p>💻 I enjoy working across the full stack, from crafting intuitive user interfaces to designing scalable backend systems.</p>
+      <p>☁️ Interested in SaaS architecture, cloud infrastructure, databases, and modern deployment workflows.</p>
+      <p>🤖 Exploring AI integration to create smarter and more efficient digital experiences.</p>
+      <p>⚡ Focused on writing clean code, building reliable APIs, and creating products that can scale.</p>
+      <p>📚 Always learning new technologies, experimenting with ideas, and improving my engineering skills.</p>
+      <p>🎯 Aspiring entrepreneur with a vision to build impactful technology products used by thousands.</p>
+      <p>🌱 Building today, learning every day, and preparing for tomorrow's challenges.</p>
     </td>
     <td width="30%" valign="top" align="center" style="border: none; padding-top: 50px;">
       <h2>🔗 Connect</h2>
