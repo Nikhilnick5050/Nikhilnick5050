@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Nikhil%20Shinde&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Founder+of+Classgrid;Full-Stack+Developer+%7C+SaaS+Builder;Computer+Engineering+@+PCCoE+Pune;Building+the+Future+of+Digital+Education" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Founder+of+Classgrid;Full-Stack+Developer+%7C+SaaS+Builder;Computer+Engineering+@+PCCoE+Pune;Building+the+Future+of+Digital+Education;Cloud+Infrastructure+%7C+AWS+%7C+Vercel;Clean+Code+%7C+Scalable+Systems;Turning+Ideas+into+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 <br/>
 
