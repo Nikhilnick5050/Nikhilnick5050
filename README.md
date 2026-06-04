@@ -22,12 +22,10 @@
     </td>
     <td width="30%" valign="top" align="center" style="border: none; padding-top: 50px;">
       <h2>🔗 Connect</h2>
-      <a href="https://classgrid.in"><img src="https://img.shields.io/badge/Classgrid.in-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a><br/><br/>
       <a href="https://nikhil.classgrid.in/"><img src="https://img.shields.io/badge/Portfolio-091519?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" /></a><br/><br/>
       <a href="https://www.linkedin.com/in/nikhil-shinde-286937367"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/><br/>
       <a href="https://x.com/Nikhilnick5046"><img src="https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white" /></a><br/><br/>
-      <a href="https://www.instagram.com/nikhilnick5046?igsh=bWM2cTBnbGJzY3c0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><br/><br/>
-      <a href="https://www.youtube.com/@FeelTheMusic1204"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <a href="https://www.instagram.com/nikhilnick5046?igsh=bWM2cTBnbGJzY3c0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -45,7 +43,6 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
   <a href="https://github.com/Nikhilnick5050">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilnick5050&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=091519&border_color=3a8296&hide_border=false&langs_count=8" />
     <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilnick5050&theme=react-dark&bg_color=091519&color=61DAFB&line=3a8296&point=61DAFB&area=true&hide_border=false&custom_title=Contribution+Graph" />
   </a>
 </div>
